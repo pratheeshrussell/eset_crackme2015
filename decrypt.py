@@ -1,6 +1,3 @@
-'''' Crackme Decrypt
-     hex input
-''''
 import sys
 if ("idlelib" in sys.modules):
     print ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
